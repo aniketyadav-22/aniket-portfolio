@@ -2,6 +2,7 @@
 
 A modern, dynamic personal portfolio website built with React and Vite. Showcase your skills, projects, and coding profiles with an interactive matrix background and smooth animations.
 
+🌐 **[Live Demo](https://aniket-portfolio-navy.vercel.app/)**
 ## ✨ Features
 
 - **Hero Section** - Eye-catching introduction with animated effects
